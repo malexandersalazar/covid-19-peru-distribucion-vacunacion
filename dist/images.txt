@@ -1,0 +1,50 @@
+### AMAZONAS
+![alt text](dist/20210301_AMAZONAS.png "AMAZONAS")
+### ANCASH
+![alt text](dist/20210301_ANCASH.png "ANCASH")
+### APURIMAC
+![alt text](dist/20210301_APURIMAC.png "APURIMAC")
+### AREQUIPA
+![alt text](dist/20210301_AREQUIPA.png "AREQUIPA")
+### AYACUCHO
+![alt text](dist/20210301_AYACUCHO.png "AYACUCHO")
+### CAJAMARCA
+![alt text](dist/20210301_CAJAMARCA.png "CAJAMARCA")
+### CALLAO
+![alt text](dist/20210301_CALLAO.png "CALLAO")
+### CUSCO
+![alt text](dist/20210301_CUSCO.png "CUSCO")
+### HUANCAVELICA
+![alt text](dist/20210301_HUANCAVELICA.png "HUANCAVELICA")
+### HUANUCO
+![alt text](dist/20210301_HUANUCO.png "HUANUCO")
+### ICA
+![alt text](dist/20210301_ICA.png "ICA")
+### JUNIN
+![alt text](dist/20210301_JUNIN.png "JUNIN")
+### LA LIBERTAD
+![alt text](dist/20210301_LA_LIBERTAD.png "LA_LIBERTAD")
+### LAMBAYEQUE
+![alt text](dist/20210301_LAMBAYEQUE.png "LAMBAYEQUE")
+### LIMA
+![alt text](dist/20210301_LIMA.png "LIMA")
+### LORETO
+![alt text](dist/20210301_LORETO.png "LORETO")
+### MADRE DE DIOS
+![alt text](dist/20210301_MADRE_DE_DIOS.png "MADRE_DE_DIOS")
+### MOQUEGUA
+![alt text](dist/20210301_MOQUEGUA.png "MOQUEGUA")
+### PASCO
+![alt text](dist/20210301_PASCO.png "PASCO")
+### PIURA
+![alt text](dist/20210301_PIURA.png "PIURA")
+### PUNO
+![alt text](dist/20210301_PUNO.png "PUNO")
+### SAN MARTIN
+![alt text](dist/20210301_SAN_MARTIN.png "SAN_MARTIN")
+### TACNA
+![alt text](dist/20210301_TACNA.png "TACNA")
+### TUMBES
+![alt text](dist/20210301_TUMBES.png "TUMBES")
+### UCAYALI
+![alt text](dist/20210301_UCAYALI.png "UCAYALI")
