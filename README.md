@@ -86,11 +86,13 @@ El Ministerio de Salud ha reportado 264 708 vacunados por COVID-19 al **2021-02-
 
 ![alt text](dist/20210302_UCAYALI.png "UCAYALI")
 
-La proporción de vacunados femeninos es muy superior en todos los grupos de edad y departamentos, excepto para algunos de los grupos de 60 a 69 años. No encontré diferencias estadísticamente significativas para los grupos de 10 a 19 años y los de 70 a 79 años. 
+La proporción de vacunados femeninos es superior en todos los grupos de edad y departamentos, excepto para algunos de los grupos de 60 a 69 años. No encontré diferencias estadísticamente significativas para los grupos de 10 a 19 años y los de 70 a 79 años. 
+
+La proporción de vacunados masculinos es superior en el grupo de riesgo de **personal de seguridad* de todos los departamentos, con excepción del departamento de Puno.
 
 ## Conclusión
 
-**2021-02-01** Utilizando los datos de vacunación contra COVID-19, encontré que la población femenina tiene una cuota de personal dominante en el Sistema de Salud.
+**2021-03-02** Utilizando los datos de vacunación contra COVID-19, encontré que la población femenina tiene una cuota de personal dominante en el sistema de salud y la población masculina tiene una cuota de personal dominante en el oficio de personal de seguridad.
 
 ## Disponibilidad de datos y materiales 
 
