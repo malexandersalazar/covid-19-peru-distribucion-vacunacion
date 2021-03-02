@@ -1,4 +1,4 @@
-# Distribución de vacunados de COVID-19 en Perú
+# Distribución de vacunados contra COVID-19 en Perú
 
 ## Antecedentes
 
