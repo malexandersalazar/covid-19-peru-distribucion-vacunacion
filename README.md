@@ -8,7 +8,7 @@ Con la llegada del primer lote de vacunas contra la COVID-19 al país, se inici�
 
 ### Fuentes de Datos
 
-Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2021-03-01** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio Vacunación contra COVID-19 del Ministerio de Salud [[1]].
+Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2021-03-04** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio Vacunación contra COVID-19 del Ministerio de Salud [[1]].
 
 ### Análisis Estadístico
 
