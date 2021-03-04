@@ -32,59 +32,59 @@ Este proyecto se desarrolló en Python 3.8.5 usando los paquetes **numpy**, **pa
 
 ## Resultados
 
-![alt text](dist/20210303_PERÚ.png "PERÚ")
+![alt text](dist/20210304_PERÚ.png "PERÚ")
 
-El Ministerio de Salud ha reportado **297 667** vacunados por COVID-19 al **2021-03-01** [[1]]. En el caso de los hombres, la mayoría de los vacunados fueron personas de 30 a 39 años (10.39%), seguidas de las personas de 40 a 49 años (8.63%) y de 50 a 59 años (6,26%). Encuentro un patrón similar para las mujeres.
+El Ministerio de Salud ha reportado **312 929** vacunados por COVID-19 al **2021-03-04** [[1]]. En el caso de los hombres, la mayoría de los vacunados fueron personas de 30 a 39 años (10.44%), seguidas de las personas de 40 a 49 años (8.63%) y de 50 a 59 años (6.26%). Encuentro un patrón similar para las mujeres.
 
-![alt text](dist/20210303_AMAZONAS.png "AMAZONAS")
+![alt text](dist/20210304_AMAZONAS.png "AMAZONAS")
 
-![alt text](dist/20210303_ANCASH.png "ANCASH")
+![alt text](dist/20210304_ANCASH.png "ANCASH")
 
-![alt text](dist/20210303_APURIMAC.png "APURIMAC")
+![alt text](dist/20210304_APURIMAC.png "APURIMAC")
 
-![alt text](dist/20210303_AREQUIPA.png "AREQUIPA")
+![alt text](dist/20210304_AREQUIPA.png "AREQUIPA")
 
-![alt text](dist/20210303_AYACUCHO.png "AYACUCHO")
+![alt text](dist/20210304_AYACUCHO.png "AYACUCHO")
 
-![alt text](dist/20210303_CAJAMARCA.png "CAJAMARCA")
+![alt text](dist/20210304_CAJAMARCA.png "CAJAMARCA")
 
-![alt text](dist/20210303_CALLAO.png "CALLAO")
+![alt text](dist/20210304_CALLAO.png "CALLAO")
 
-![alt text](dist/20210303_CUSCO.png "CUSCO")
+![alt text](dist/20210304_CUSCO.png "CUSCO")
 
-![alt text](dist/20210303_HUANCAVELICA.png "HUANCAVELICA")
+![alt text](dist/20210304_HUANCAVELICA.png "HUANCAVELICA")
 
-![alt text](dist/20210303_HUANUCO.png "HUANUCO")
+![alt text](dist/20210304_HUANUCO.png "HUANUCO")
 
-![alt text](dist/20210303_ICA.png "ICA")
+![alt text](dist/20210304_ICA.png "ICA")
 
-![alt text](dist/20210303_JUNIN.png "JUNIN")
+![alt text](dist/20210304_JUNIN.png "JUNIN")
 
-![alt text](dist/20210303_LA_LIBERTAD.png "LA LIBERTAD")
+![alt text](dist/20210304_LA_LIBERTAD.png "LA LIBERTAD")
 
-![alt text](dist/20210303_LAMBAYEQUE.png "LAMBAYEQUE")
+![alt text](dist/20210304_LAMBAYEQUE.png "LAMBAYEQUE")
 
-![alt text](dist/20210303_LIMA.png "LIMA")
+![alt text](dist/20210304_LIMA.png "LIMA")
 
-![alt text](dist/20210303_LORETO.png "LORETO")
+![alt text](dist/20210304_LORETO.png "LORETO")
 
-![alt text](dist/20210303_MADRE_DE_DIOS.png "MADRE DE DIOS")
+![alt text](dist/20210304_MADRE_DE_DIOS.png "MADRE DE DIOS")
 
-![alt text](dist/20210303_MOQUEGUA.png "MOQUEGUA")
+![alt text](dist/20210304_MOQUEGUA.png "MOQUEGUA")
 
-![alt text](dist/20210303_PASCO.png "PASCO")
+![alt text](dist/20210304_PASCO.png "PASCO")
 
-![alt text](dist/20210303_PIURA.png "PIURA")
+![alt text](dist/20210304_PIURA.png "PIURA")
 
-![alt text](dist/20210303_PUNO.png "PUNO")
+![alt text](dist/20210304_PUNO.png "PUNO")
 
-![alt text](dist/20210303_SAN_MARTIN.png "SAN MARTIN")
+![alt text](dist/20210304_SAN_MARTIN.png "SAN MARTIN")
 
-![alt text](dist/20210303_TACNA.png "TACNA")
+![alt text](dist/20210304_TACNA.png "TACNA")
 
-![alt text](dist/20210303_TUMBES.png "TUMBES")
+![alt text](dist/20210304_TUMBES.png "TUMBES")
 
-![alt text](dist/20210303_UCAYALI.png "UCAYALI")
+![alt text](dist/20210304_UCAYALI.png "UCAYALI")
 
 La proporción de vacunados femeninos es superior en todos los grupos de edad y departamentos, excepto para algunos de los grupos de 60 a 69 años. No encontré diferencias estadísticamente significativas para los grupos de 10 a 19 años y los de 70 a 79 años. 
 
@@ -100,7 +100,7 @@ Los conjuntos de datos utilizados en el presente proyecto están disponibles en 
 
 ## Referencias
 
-1. Ministerio de Salud - MINSA. (s.f.). _[Vacunación contra COVID - 19 - [Ministerio de Salud - MINSA] | Plataforma Nacional de Datos Abiertos_. Gobierno del Perú. Recuperado el 3 de marzo de 2021 de https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
+1. Ministerio de Salud - MINSA. (s.f.). _[Vacunación contra COVID - 19 - [Ministerio de Salud - MINSA] | Plataforma Nacional de Datos Abiertos_. Gobierno del Perú. Recuperado el 4 de marzo de 2021 de https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
 
 [1]: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
 
