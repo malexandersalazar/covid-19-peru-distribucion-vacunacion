@@ -1,26 +1,52 @@
-![alt text](dist/20210310_PERÚ.png "PERÚ")
-![alt text](dist/20210310_AMAZONAS.png "AMAZONAS")
-![alt text](dist/20210310_ANCASH.png "ANCASH")
-![alt text](dist/20210310_APURIMAC.png "APURIMAC")
-![alt text](dist/20210310_AREQUIPA.png "AREQUIPA")
-![alt text](dist/20210310_AYACUCHO.png "AYACUCHO")
-![alt text](dist/20210310_CAJAMARCA.png "CAJAMARCA")
-![alt text](dist/20210310_CALLAO.png "CALLAO")
-![alt text](dist/20210310_CUSCO.png "CUSCO")
-![alt text](dist/20210310_HUANCAVELICA.png "HUANCAVELICA")
-![alt text](dist/20210310_HUANUCO.png "HUANUCO")
-![alt text](dist/20210310_ICA.png "ICA")
-![alt text](dist/20210310_JUNIN.png "JUNIN")
-![alt text](dist/20210310_LA_LIBERTAD.png "LA LIBERTAD")
-![alt text](dist/20210310_LAMBAYEQUE.png "LAMBAYEQUE")
-![alt text](dist/20210310_LIMA.png "LIMA")
-![alt text](dist/20210310_LORETO.png "LORETO")
-![alt text](dist/20210310_MADRE_DE_DIOS.png "MADRE DE DIOS")
-![alt text](dist/20210310_MOQUEGUA.png "MOQUEGUA")
-![alt text](dist/20210310_PASCO.png "PASCO")
-![alt text](dist/20210310_PIURA.png "PIURA")
-![alt text](dist/20210310_PUNO.png "PUNO")
-![alt text](dist/20210310_SAN_MARTIN.png "SAN MARTIN")
-![alt text](dist/20210310_TACNA.png "TACNA")
-![alt text](dist/20210310_TUMBES.png "TUMBES")
-![alt text](dist/20210310_UCAYALI.png "UCAYALI")
+![alt text](dist/20210407_PERÚ.png "PERÚ")
+
+![alt text](dist/20210407_AMAZONAS.png "AMAZONAS")
+
+![alt text](dist/20210407_ANCASH.png "ANCASH")
+
+![alt text](dist/20210407_APURIMAC.png "APURIMAC")
+
+![alt text](dist/20210407_AREQUIPA.png "AREQUIPA")
+
+![alt text](dist/20210407_AYACUCHO.png "AYACUCHO")
+
+![alt text](dist/20210407_CAJAMARCA.png "CAJAMARCA")
+
+![alt text](dist/20210407_CALLAO.png "CALLAO")
+
+![alt text](dist/20210407_CUSCO.png "CUSCO")
+
+![alt text](dist/20210407_HUANCAVELICA.png "HUANCAVELICA")
+
+![alt text](dist/20210407_HUANUCO.png "HUANUCO")
+
+![alt text](dist/20210407_ICA.png "ICA")
+
+![alt text](dist/20210407_JUNIN.png "JUNIN")
+
+![alt text](dist/20210407_LA_LIBERTAD.png "LA LIBERTAD")
+
+![alt text](dist/20210407_LAMBAYEQUE.png "LAMBAYEQUE")
+
+![alt text](dist/20210407_LIMA.png "LIMA")
+
+![alt text](dist/20210407_LORETO.png "LORETO")
+
+![alt text](dist/20210407_MADRE_DE_DIOS.png "MADRE DE DIOS")
+
+![alt text](dist/20210407_MOQUEGUA.png "MOQUEGUA")
+
+![alt text](dist/20210407_PASCO.png "PASCO")
+
+![alt text](dist/20210407_PIURA.png "PIURA")
+
+![alt text](dist/20210407_PUNO.png "PUNO")
+
+![alt text](dist/20210407_SAN_MARTIN.png "SAN MARTIN")
+
+![alt text](dist/20210407_TACNA.png "TACNA")
+
+![alt text](dist/20210407_TUMBES.png "TUMBES")
+
+![alt text](dist/20210407_UCAYALI.png "UCAYALI")
+

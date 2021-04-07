@@ -8,7 +8,7 @@ Con la llegada del primer lote de vacunas contra la COVID-19 al país, se inici�
 
 ### Fuentes de Datos
 
-Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2021-03-10** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio Vacunación contra COVID-19 del Ministerio de Salud [[1]].
+Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2021-04-03** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio Vacunación contra COVID-19 del Ministerio de Salud [[1]].
 
 ### Análisis Estadístico
 
@@ -32,69 +32,65 @@ Este proyecto se desarrolló en Python 3.8.5 usando los paquetes **numpy**, **pa
 
 ## Resultados
 
-![alt text](dist/20210310_PERÚ.png "PERÚ")
+![alt text](dist/20210406_PERÚ.png "PERÚ")
 
-En el caso de los hombres, la mayoría de los vacunados fueron personas de 30 a 39 años (10.3%), seguidas de las personas de 40 a 49 años (9.11%) y de 50 a 59 años (7.43%). Encuentro un patrón similar para las mujeres.
+En el caso de los hombres, la mayoría de los vacunados fueron personas de 30 a 39 años (10.42%), seguidas de las personas de 40 a 49 años (8.64%) y de 20 a 29 años (7.75%). Encuentro un patrón similar para las mujeres.
 
-![alt text](dist/20210310_AMAZONAS.png "AMAZONAS")
+![alt text](dist/20210406_AMAZONAS.png "AMAZONAS")
 
-![alt text](dist/20210310_ANCASH.png "ANCASH")
+![alt text](dist/20210406_ANCASH.png "ANCASH")
 
-![alt text](dist/20210310_APURIMAC.png "APURIMAC")
+![alt text](dist/20210406_APURIMAC.png "APURIMAC")
 
-![alt text](dist/20210310_AREQUIPA.png "AREQUIPA")
+![alt text](dist/20210406_AREQUIPA.png "AREQUIPA")
 
-![alt text](dist/20210310_AYACUCHO.png "AYACUCHO")
+![alt text](dist/20210406_AYACUCHO.png "AYACUCHO")
 
-![alt text](dist/20210310_CAJAMARCA.png "CAJAMARCA")
+![alt text](dist/20210406_CAJAMARCA.png "CAJAMARCA")
 
-![alt text](dist/20210310_CALLAO.png "CALLAO")
+![alt text](dist/20210406_CALLAO.png "CALLAO")
 
-![alt text](dist/20210310_CUSCO.png "CUSCO")
+![alt text](dist/20210406_CUSCO.png "CUSCO")
 
-![alt text](dist/20210310_HUANCAVELICA.png "HUANCAVELICA")
+![alt text](dist/20210406_HUANCAVELICA.png "HUANCAVELICA")
 
-![alt text](dist/20210310_HUANUCO.png "HUANUCO")
+![alt text](dist/20210406_HUANUCO.png "HUANUCO")
 
-![alt text](dist/20210310_ICA.png "ICA")
+![alt text](dist/20210406_ICA.png "ICA")
 
-![alt text](dist/20210310_JUNIN.png "JUNIN")
+![alt text](dist/20210406_JUNIN.png "JUNIN")
 
-![alt text](dist/20210310_LA_LIBERTAD.png "LA LIBERTAD")
+![alt text](dist/20210406_LA_LIBERTAD.png "LA LIBERTAD")
 
-![alt text](dist/20210310_LAMBAYEQUE.png "LAMBAYEQUE")
+![alt text](dist/20210406_LAMBAYEQUE.png "LAMBAYEQUE")
 
-![alt text](dist/20210310_LIMA.png "LIMA")
+![alt text](dist/20210406_LIMA.png "LIMA")
 
-![alt text](dist/20210310_LORETO.png "LORETO")
+![alt text](dist/20210406_LORETO.png "LORETO")
 
-![alt text](dist/20210310_MADRE_DE_DIOS.png "MADRE DE DIOS")
+![alt text](dist/20210406_MADRE_DE_DIOS.png "MADRE DE DIOS")
 
-![alt text](dist/20210310_MOQUEGUA.png "MOQUEGUA")
+![alt text](dist/20210406_MOQUEGUA.png "MOQUEGUA")
 
-![alt text](dist/20210310_PASCO.png "PASCO")
+![alt text](dist/20210406_PASCO.png "PASCO")
 
-![alt text](dist/20210310_PIURA.png "PIURA")
+![alt text](dist/20210406_PIURA.png "PIURA")
 
-![alt text](dist/20210310_PUNO.png "PUNO")
+![alt text](dist/20210406_PUNO.png "PUNO")
 
-![alt text](dist/20210310_SAN_MARTIN.png "SAN MARTIN")
+![alt text](dist/20210406_SAN_MARTIN.png "SAN MARTIN")
 
-![alt text](dist/20210310_TACNA.png "TACNA")
+![alt text](dist/20210406_TACNA.png "TACNA")
 
-![alt text](dist/20210310_TUMBES.png "TUMBES")
+![alt text](dist/20210406_TUMBES.png "TUMBES")
 
-![alt text](dist/20210310_UCAYALI.png "UCAYALI")
-
-La proporción de vacunados femeninos es superior en todos los grupos de edad y departamentos, excepto para algunos de los grupos de 60 a 69 años. No encontré diferencias estadísticamente significativas para el grupo de 70 a 79 años. 
-
-La proporción de vacunados masculinos es superior en los grupos de riesgo de personal de seguridad y P.N.P. en la mayoría de los departamentos.
+![alt text](dist/20210406_UCAYALI.png "UCAYALI")
 
 ## Conclusión
 
-**2021-03-03** Utilizando los datos de vacunación contra COVID-19, encontré que la población femenina tiene una cuota dominante en el **sistema de salud**, mientras que la masculina tiene una cuota dominante en el oficio de **personal de seguridad**.
-
 **2021-03-10** Utilizando los datos de vacunación contra COVID-19, encontré que la población femenina tiene una cuota dominante en el **sistema de salud**, mientras que la masculina tiene una cuota dominante en los grupos de **personal de seguridad** y **P.N.P**.
+
+**2021-04-07** Dado el progreso de la vacunación en los grupos de riesgo **P.N.P**, **FF.AA.** y **P.SALUD**, por primera vez las personas entre 20 a 29 años representan un número mayor de vacunados con respecto a las personas entre 50 a 59 años. Así mismo la priorización de los adultos mayores nos indica ahora que los vacunados mayores de 80 años son superiores en número a los adultos de entre 70 a 79 años.
 
 ## Disponibilidad de datos y materiales 
 
