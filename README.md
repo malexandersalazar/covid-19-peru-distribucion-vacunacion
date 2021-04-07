@@ -32,59 +32,59 @@ Este proyecto se desarrolló en Python 3.8.5 usando los paquetes **numpy**, **pa
 
 ## Resultados
 
-![alt text](dist/20210406_PERÚ.png "PERÚ")
+![alt text](dist/20210407_PERÚ.png "PERÚ")
 
 En el caso de los hombres, la mayoría de los vacunados fueron personas de 30 a 39 años (10.42%), seguidas de las personas de 40 a 49 años (8.64%) y de 20 a 29 años (7.75%). Encuentro un patrón similar para las mujeres.
 
-![alt text](dist/20210406_AMAZONAS.png "AMAZONAS")
+![alt text](dist/20210407_AMAZONAS.png "AMAZONAS")
 
-![alt text](dist/20210406_ANCASH.png "ANCASH")
+![alt text](dist/20210407_ANCASH.png "ANCASH")
 
-![alt text](dist/20210406_APURIMAC.png "APURIMAC")
+![alt text](dist/20210407_APURIMAC.png "APURIMAC")
 
-![alt text](dist/20210406_AREQUIPA.png "AREQUIPA")
+![alt text](dist/20210407_AREQUIPA.png "AREQUIPA")
 
-![alt text](dist/20210406_AYACUCHO.png "AYACUCHO")
+![alt text](dist/20210407_AYACUCHO.png "AYACUCHO")
 
-![alt text](dist/20210406_CAJAMARCA.png "CAJAMARCA")
+![alt text](dist/20210407_CAJAMARCA.png "CAJAMARCA")
 
-![alt text](dist/20210406_CALLAO.png "CALLAO")
+![alt text](dist/20210407_CALLAO.png "CALLAO")
 
-![alt text](dist/20210406_CUSCO.png "CUSCO")
+![alt text](dist/20210407_CUSCO.png "CUSCO")
 
-![alt text](dist/20210406_HUANCAVELICA.png "HUANCAVELICA")
+![alt text](dist/20210407_HUANCAVELICA.png "HUANCAVELICA")
 
-![alt text](dist/20210406_HUANUCO.png "HUANUCO")
+![alt text](dist/20210407_HUANUCO.png "HUANUCO")
 
-![alt text](dist/20210406_ICA.png "ICA")
+![alt text](dist/20210407_ICA.png "ICA")
 
-![alt text](dist/20210406_JUNIN.png "JUNIN")
+![alt text](dist/20210407_JUNIN.png "JUNIN")
 
-![alt text](dist/20210406_LA_LIBERTAD.png "LA LIBERTAD")
+![alt text](dist/20210407_LA_LIBERTAD.png "LA LIBERTAD")
 
-![alt text](dist/20210406_LAMBAYEQUE.png "LAMBAYEQUE")
+![alt text](dist/20210407_LAMBAYEQUE.png "LAMBAYEQUE")
 
-![alt text](dist/20210406_LIMA.png "LIMA")
+![alt text](dist/20210407_LIMA.png "LIMA")
 
-![alt text](dist/20210406_LORETO.png "LORETO")
+![alt text](dist/20210407_LORETO.png "LORETO")
 
-![alt text](dist/20210406_MADRE_DE_DIOS.png "MADRE DE DIOS")
+![alt text](dist/20210407_MADRE_DE_DIOS.png "MADRE DE DIOS")
 
-![alt text](dist/20210406_MOQUEGUA.png "MOQUEGUA")
+![alt text](dist/20210407_MOQUEGUA.png "MOQUEGUA")
 
-![alt text](dist/20210406_PASCO.png "PASCO")
+![alt text](dist/20210407_PASCO.png "PASCO")
 
-![alt text](dist/20210406_PIURA.png "PIURA")
+![alt text](dist/20210407_PIURA.png "PIURA")
 
-![alt text](dist/20210406_PUNO.png "PUNO")
+![alt text](dist/20210407_PUNO.png "PUNO")
 
-![alt text](dist/20210406_SAN_MARTIN.png "SAN MARTIN")
+![alt text](dist/20210407_SAN_MARTIN.png "SAN MARTIN")
 
-![alt text](dist/20210406_TACNA.png "TACNA")
+![alt text](dist/20210407_TACNA.png "TACNA")
 
-![alt text](dist/20210406_TUMBES.png "TUMBES")
+![alt text](dist/20210407_TUMBES.png "TUMBES")
 
-![alt text](dist/20210406_UCAYALI.png "UCAYALI")
+![alt text](dist/20210407_UCAYALI.png "UCAYALI")
 
 ## Conclusión
 
